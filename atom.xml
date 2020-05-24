@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YoungWorld</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sharefuture1.github.io/"/>
+  <updated>2020-05-24T05:07:05.389Z</updated>
+  <id>https://sharefuture1.github.io/</id>
+  
+  <author>
+    <name>Young</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Page</title>
+    <link href="https://sharefuture1.github.io/2020/05/24/hello-world/"/>
+    <id>https://sharefuture1.github.io/2020/05/24/hello-world/</id>
+    <published>2020-05-24T05:05:52.000Z</published>
+    <updated>2020-05-24T05:07:05.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title: jQuery对表单的操作及更多应用&lt;br&gt;date: 2017-05-26 12:12:57&lt;br&gt;categories:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>first page</title>
+    <link href="https://sharefuture1.github.io/2020/05/23/first-page/"/>
+    <id>https://sharefuture1.github.io/2020/05/23/first-page/</id>
+    <published>2020-05-23T14:50:09.000Z</published>
+    <updated>2020-05-23T14:53:52.348Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;first-web-page-created-by-hexo&quot;&gt;&lt;a href=&quot;#first-web-page-created-by-hexo&quot; class=&quot;headerlink&quot; title=&quot;first web page created by
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
